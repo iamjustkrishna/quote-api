@@ -63,7 +63,7 @@ def summarize():
         
         # Calling Gemini 3 Flash Preview
         response = client.models.generate_content(
-            model="gemini-3-flash-preview",
+            model="gemini-1.5-flash",
             contents=prompt,
             config=types.GenerateContentConfig(
                 thinking_config=types.ThinkingConfig(thinking_level="low") 
