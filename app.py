@@ -43,5 +43,23 @@ def get_quote():
         print(traceback.format_exc())
         return jsonify({"error": str(e)}), 500
 
+@app.route("/summarize", methods=["POST"])
+def summarize():
+    article_url = request.json.get("url")
+    
+    prompt = f"Analyze the content at this URL and provide a 3-bullet point summary focusing on core technical or business takeaways: {article_url}"
+    
+    try:
+        response = client.models.generate_content(
+            model="gemini-3-flash-preview",
+            contents=prompt,
+            config=types.GenerateContentConfig(
+                thinking_config=types.ThinkingConfig(thinking_level="low") 
+            )
+        )
+        return jsonify({"summary": response.text})
+    except Exception as e:
+        return jsonify({"error": str(e)}), 500
+        
 if __name__ == '__main__':
     app.run(debug=True)
