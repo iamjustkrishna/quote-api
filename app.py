@@ -45,11 +45,23 @@ def get_quote():
 
 @app.route("/summarize", methods=["POST"])
 def summarize():
-    article_url = request.json.get("url")
-    
-    prompt = f"Analyze the content at this URL and provide a 3-bullet point summary focusing on core technical or business takeaways: {article_url}"
-    
     try:
+        # Get the JSON data sent from Retrofit
+        data = request.get_json() 
+        
+        if not data or "url" not in data:
+            return jsonify({"error": "No URL provided in the request body"}), 400
+            
+        article_url = data.get("url")
+        
+        # High-impact prompt for Persona's "Study" focus
+        prompt = (
+            f"Please provide a high-level, 3-bullet point summary of this article "
+            f"for a student's personal knowledge vault. Focus on the 'why it matters' "
+            f"and 'key takeaway': {article_url}"
+        )
+        
+        # Calling Gemini 3 Flash Preview
         response = client.models.generate_content(
             model="gemini-3-flash-preview",
             contents=prompt,
@@ -57,8 +69,13 @@ def summarize():
                 thinking_config=types.ThinkingConfig(thinking_level="low") 
             )
         )
+        
         return jsonify({"summary": response.text})
+
     except Exception as e:
+        # This helps you debug in the terminal if something else goes wrong
+        import traceback
+        print(traceback.format_exc())
         return jsonify({"error": str(e)}), 500
         
 if __name__ == '__main__':
