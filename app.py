@@ -1,6 +1,6 @@
 import os
 import traceback
-from flask import Flask, jsonify
+from flask import Flask, jsonify, request
 from google import genai
 from google.genai import types
 
