@@ -11,7 +11,7 @@ FOUNDER_FEEDS = [
     {"name": "Naval Ravikant", "url": "https://nav.al/feed"}
 ]
 
-client = genai.Client(api_key=os.getenv("GEMINI_API_KEY_FOUNDERS"))
+client = genai.Client(api_key=os.getenv("GEMINI_API_KEY"))
 
 def get_high_signal_summary(title, link, founder_name):
     """Uses Gemini 2.5 to decide if we should 'sprinkle' this article."""
@@ -19,7 +19,7 @@ def get_high_signal_summary(title, link, founder_name):
     You are a world-class startup mentor. Analyze this article title: "{title}" by {founder_name}.
     1. Is this 'High Signal' for a student/entrepreneur? (Yes/No)
     2. Provide a 1-sentence 'hook' summary.
-    3. Return JSON format: {{"high_signal": bool, "summary": "string"}}
+    3. Return JSON format: {{"high_signal": bool, "summary": "string"}} 
     """
     try:
         response = client.models.generate_content(
