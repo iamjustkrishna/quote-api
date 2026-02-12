@@ -1,72 +1,93 @@
 import os
 import json
-import feedparser
+import sys
 from google import genai
 from google.genai import types
 
-# 1. Configuration - Add any founder RSS feeds here
-FOUNDER_FEEDS = [
-    {"name": "Paul Graham", "url": "http://www.aaronsw.com/2002/feeds/pgessays.rss"},
-    {"name": "Sam Altman", "url": "https://blog.samaltman.com/posts.atom"},
-    {"name": "Naval Ravikant", "url": "https://nav.al/feed"}
-]
+# Configuration: Mentors for Gemini to track
+FOUNDERS = ["Paul Graham", "Sam Altman", "Naval Ravikant", "Vitalik Buterin", "Marc Andreessen"]
 
-client = genai.Client(api_key=os.getenv("GEMINI_API_KEY"))
+# Map secret to variable used in script
+api_key = os.getenv("GEMINI_API_KEY")
 
-def get_high_signal_summary(title, link, founder_name):
-    """Uses Gemini 2.5 to decide if we should 'sprinkle' this article."""
+if not api_key:
+    print("❌ FATAL: GEMINI_API_KEY is not set.")
+    sys.exit(1)
+
+client = genai.Client(api_key=api_key)
+
+def search_and_curate_founder_content(founder_name):
+    """Uses Gemini Search Tool to find the absolute latest from a founder."""
     prompt = f"""
-    You are a world-class startup mentor. Analyze this article title: "{title}" by {founder_name}.
-    1. Is this 'High Signal' for a student/entrepreneur? (Yes/No)
-    2. Provide a 1-sentence 'hook' summary.
-    3. Return JSON format: {{"high_signal": bool, "summary": "string"}} 
+    Search for the latest articles, essays, or significant blog posts written by {founder_name} in the last 30 days.
+    For each valid finding:
+    1. Verify it is actually written by them.
+    2. Write a 1-sentence high-signal 'hook' summary.
+    3. Return a list of JSON objects: {{"title": "str", "url": "str", "snippet": "str", "founder_name": "{founder_name}", "image": "str"}}
+    Limit to the top 2 most relevant new findings.
     """
+    
     try:
         response = client.models.generate_content(
-            model="gemini-2.5-flash",
+            model="gemini-3-flash-preview",
             contents=prompt,
-            config=types.GenerateContentConfig(response_mime_type="application/json")
+            config=types.GenerateContentConfig(
+                tools=[types.Tool(googleSearch=types.GoogleSearch())],
+                response_mime_type="application/json",
+                thinking_config=types.ThinkingConfig(thinking_budget=-1)
+            )
         )
         return json.loads(response.text)
-    except:
-        return {"high_signal": False, "summary": ""}
+    except Exception as e:
+        print(f"⚠️ Error searching for {founder_name}: {e}")
+        return []
 
 def curate():
-    new_articles = []
+    # 1. Load Current Feed and Archive
+    current_feed_path = "founder_articles.json"
+    archive_path = "older_articles.json"
     
-    # Load existing to avoid duplicates
-    if os.path.exists("founder_articles.json"):
-        with open("founder_articles.json", "r") as f:
-            existing_articles = json.load(f)
-            existing_urls = {a['url'] for a in existing_articles}
-    else:
-        existing_articles = []
-        existing_urls = set()
+    def load_json(path):
+        if os.path.exists(path):
+            with open(path, "r") as f: return json.load(f)
+        return []
 
-    for feed in FOUNDER_FEEDS:
-        print(f"Checking {feed['name']}...")
-        parsed = feedparser.parse(feed['url'])
+    existing_articles = load_json(current_feed_path)
+    older_articles = load_json(archive_path)
+    
+    existing_urls = {a['url'] for a in existing_articles} | {a['url'] for a in older_articles}
+    
+    # 2. Hunt for new content
+    newly_found = []
+    for founder in FOUNDERS:
+        print(f"🔍 Gemini is searching for {founder}...")
+        results = search_and_curate_founder_content(founder)
+        for item in results:
+            if item['url'] not in existing_urls:
+                newly_found.append(item)
+
+    if not newly_found:
+        print("✅ No new articles found today.")
+        return
+
+    # 3. Rolling Archive Logic
+    # Move 'old' current articles to archive, then add new ones to top
+    updated_archive = newly_found + existing_articles + older_articles
+    
+    # Keep the current feed 'Fresh' (Top 20)
+    current_feed = (newly_found + existing_articles)[:20]
+    
+    # Keep the archive robust (Top 500)
+    archive_feed = updated_archive[:500]
+
+    # 4. Save files
+    with open(current_feed_path, "w") as f:
+        json.dump(current_feed, f, indent=4)
         
-        # Only check the latest 3 entries to save API tokens
-        for entry in parsed.entries[:3]:
-            if entry.link not in existing_urls:
-                analysis = get_high_signal_summary(entry.title, entry.link, feed['name'])
-                
-                if analysis.get("high_signal"):
-                    new_articles.append({
-                        "title": entry.title,
-                        "url": entry.link,
-                        "snippet": analysis.get("summary"),
-                        "founder_name": feed['name'],
-                        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c", # Default placeholder
-                        "timestamp": entry.get("published", "")
-                    })
+    with open(archive_path, "w") as f:
+        json.dump(archive_feed, f, indent=4)
 
-    # Combine and save (Keep only the latest 50 to keep the file small)
-    final_list = (new_articles + existing_articles)[:50]
-    with open("founder_articles.json", "w") as f:
-        json.dump(final_list, f, indent=4)
-    print(f"Added {len(new_articles)} new high-signal articles!")
+    print(f"🚀 Success! Added {len(newly_found)} new articles to the feed.")
 
 if __name__ == "__main__":
     curate()
