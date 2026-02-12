@@ -24,7 +24,7 @@ jobs:
 
       - name: Run Curator
         env:
-          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY_FOUNDERS }} # Set this in GitHub Repo Secrets
+          GEMINI_API_KEY_FOUNDERS: ${{ secrets.GEMINI_API_KEY_FOUNDERS }} # Set this in GitHub Repo Secrets
         run: python curate_founders.py
 
       - name: Commit and Push changes
