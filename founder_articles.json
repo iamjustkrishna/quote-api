@@ -1,2 +1,98 @@
-
-[]
+[
+    {
+        "title": "Superlinear Returns",
+        "url": "http://www.paulgraham.com/superlinear.html",
+        "snippet": "**Student entrepreneurs: Paul Graham's 'Superlinear Returns' shows you how to make your limited effort generate disproportionately massive results, turning small starts into exponential success.**",
+        "founder_name": "Paul Graham",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c",
+        "timestamp": 1770884674.0103462
+    },
+    {
+        "title": "How to Do Great Work",
+        "url": "http://www.paulgraham.com/greatwork.html",
+        "snippet": "Student entrepreneurs: Paul Graham's 'How to Do Great Work' offers the definitive playbook for transforming your early ideas into something genuinely groundbreaking.",
+        "founder_name": "Paul Graham",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c",
+        "timestamp": 1770884681.9666626
+    },
+    {
+        "title": "How to Get New Ideas",
+        "url": "http://www.paulgraham.com/getideas.html",
+        "snippet": "Student entrepreneurs, stop guessing: Paul Graham's essential guide reveals how to uncover the potent, fundable ideas that actually build successful startups.",
+        "founder_name": "Paul Graham",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c",
+        "timestamp": 1770884691.083779
+    },
+    {
+        "title": "Sora update #1",
+        "url": "https://blog.samaltman.com/sora-update-number-1",
+        "snippet": "Sam Altman's \"Sora update #1\" is your crucial early brief on the AI video revolution poised to disrupt markets and unlock your next game-changing student startup.",
+        "founder_name": "Sam Altman",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c",
+        "timestamp": 1770884700.8539443
+    },
+    {
+        "title": "Sora 2",
+        "url": "https://blog.samaltman.com/sora-2",
+        "snippet": "Sam Altman's \"Sora 2\" is the blueprint for the AI-powered video revolution that will either ignite your startup or render it obsolete.",
+        "founder_name": "Sam Altman",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c",
+        "timestamp": 1770884709.102557
+    },
+    {
+        "title": "Abundant Intelligence",
+        "url": "https://blog.samaltman.com/abundant-intelligence",
+        "snippet": "Sam Altman's \"Abundant Intelligence\" is your roadmap to leveraging ubiquitous AI for building the next billion-dollar startup\u2014or getting disrupted by it.",
+        "founder_name": "Sam Altman",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c",
+        "timestamp": 1770884717.617246
+    },
+    {
+        "title": "Curate People",
+        "url": "https://nav.al/curate-people",
+        "snippet": "Insightful essay on startups and technology.",
+        "founder_name": "Naval Ravikant",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c",
+        "timestamp": 1770884720.0170972
+    },
+    {
+        "title": "In the Arena",
+        "url": "https://nav.al/in-the-arena",
+        "snippet": "Naval Ravikant's \"In the Arena\" equips student entrepreneurs with the essential mindset and courage to step off the sidelines and actually build their vision in the real world.",
+        "founder_name": "Naval Ravikant",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c",
+        "timestamp": 1770884731.6466773
+    },
+    {
+        "title": "Find the Simplest Thing That Works",
+        "url": "https://nav.al/simplest",
+        "snippet": "Student entrepreneurs, cut through the complexity and launch faster: Naval Ravikant reveals how to achieve real impact by focusing on the simplest thing that actually works.",
+        "founder_name": "Naval Ravikant",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c",
+        "timestamp": 1770884740.2394726
+    },
+    {
+        "title": "Balance of power",
+        "url": "https://vitalik.ca/general/2025/12/30/balance_of_power.html",
+        "snippet": "Student entrepreneurs: Vitalik Buterin's \"Balance of Power\" is your strategic blueprint for designing platforms and dominating markets by understanding who *really* holds the reins in the digital economy.",
+        "founder_name": "Vitalik Buterin",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c",
+        "timestamp": 1770884752.4300117
+    },
+    {
+        "title": "Let a thousand societies bloom",
+        "url": "https://vitalik.ca/general/2025/12/17/societies.html",
+        "snippet": "Vitalik Buterin's vision of \"a thousand societies blooming\" unveils the vast new frontier where student entrepreneurs can build disruptive, decentralized ventures from the ground up.",
+        "founder_name": "Vitalik Buterin",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c",
+        "timestamp": 1770884761.6157813
+    },
+    {
+        "title": "Plinko PIR tutorial",
+        "url": "https://vitalik.ca/general/2025/11/25/plinko.html",
+        "snippet": "Master Vitalik Buterin's Plinko PIR tutorial to build privacy-first applications that earn user trust and give your startup an undeniable competitive edge.",
+        "founder_name": "Vitalik Buterin",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c",
+        "timestamp": 1770884770.717693
+    }
+]
