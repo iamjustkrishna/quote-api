@@ -26,7 +26,7 @@ def get_quote():
     try:
         # Using 2.5 Flash for the daily quote
         response = client.models.generate_content(
-            model="gemini-2.5-flash",
+            model="gemini-3-flash-preview",
             contents="Give me a unique and thought-provoking quote for today.",
             config=types.GenerateContentConfig(
                 thinking_config=thinking_config
