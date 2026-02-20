@@ -27,7 +27,10 @@ def get_quote():
         # Using 2.5 Flash for the daily quote
         response = client.models.generate_content(
             model="gemini-2.5-flash",
-            contents="Give me a unique and thought-provoking quote for today."
+            contents="Give me a unique and thought-provoking quote for today.",
+            config=types.GenerateContentConfig(
+                response_mime_type="application/json"
+    )
         )
         
         return jsonify({"quote": response.text.strip()})
