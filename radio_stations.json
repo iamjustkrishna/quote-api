@@ -1,0 +1,75 @@
+{
+  "version": 1,
+  "stations": [
+    {
+      "id": 1,
+      "name": "Alan Walker",
+      "genre": "Walker",
+      "streamUrl": "https://stream.zeno.fm/kv9nt7z7vv8uv?aw_0_req_lsid=fe799c887d54c2861d565ca5feac911d",
+      "location": "Global"
+    },
+    {
+      "id": 2,
+      "name": "Justin Bieber",
+      "genre": "POP",
+      "streamUrl": "https://stream.zeno.fm/1pppanydgfhvv?aw_0_req_lsid=fe799c887d54c2861d565ca5feac911d",
+      "location": "USA"
+    },
+    {
+      "id": 3,
+      "name": "The Weeknd",
+      "genre": "Pop",
+      "streamUrl": "https://stream.zeno.fm/c3zv2erfselvv?aw_0_req_lsid=f5e9489c2303cb5302bfe247d7e03772",
+      "location": "UK"
+    },
+    {
+      "id": 4,
+      "name": "Taylor Swift",
+      "genre": "Pop",
+      "streamUrl": "https://stream.zeno.fm/xiothj9jrxfvv?aw_0_req_lsid=f5e9489c2303cb5302bfe247d7e03772",
+      "location": "International"
+    },
+    {
+      "id": 5,
+      "name": "Arijit Singh",
+      "genre": "Bollywood Hindi",
+      "streamUrl": "https://stream-158.zeno.fm/rfpf8qec94zuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJyZnBmOHFlYzk0enV2IiwiaG9zdCI6InN0cmVhbS0xNTguemVuby5mbSIsInJ0dGwiOjUsImp0aSI6IlAzOXRNZlBIU21PZk9WNzBVeEI0N3ciLCJpYXQiOjE3NzEyMjQ0MzYsImV4cCI6MTc3MTIyNDQ5Nn0.KoBCKomsUMsHsmhsYMy2meGU4oUNBpyWvGnlpEEygUs&aw_0_req_lsid=f5e9489c2303cb5302bfe247d7e03772",
+      "location": "India"
+    },
+    {
+      "id": 6,
+      "name": "Siddhu Moosewala",
+      "genre": "Punjabi Hits",
+      "streamUrl": "https://stream.zeno.fm/e5hahqs7twzuv?aw_0_req_lsid=f5e9489c2303cb5302bfe247d7e03772",
+      "location": "India"
+    },
+    {
+      "id": 7,
+      "name": "Eminem",
+      "genre": "Rap",
+      "streamUrl": "https://stream.zeno.fm/fscn84e3z14tv?aw_0_req_lsid=f5e9489c2303cb5302bfe247d7e03772",
+      "location": "USA"
+    },
+    {
+      "id": 8,
+      "name": "Drake Playlist",
+      "genre": "Mixed",
+      "streamUrl": "https://stream.zeno.fm/ai0d1xdhkoauv?aw_0_req_lsid=f5e9489c2303cb5302bfe247d7e03772",
+      "location": "Global"
+    },
+    {
+      "id": 9,
+      "name": "Soothing Piano",
+      "genre": "Instrumental",
+      "streamUrl": "https://stream.zeno.fm/0r0xa792kwzuv",
+      "location": "Global"
+    },
+    {
+      "id": 10,
+      "name": "Bob Dylan Exclusive",
+      "genre": "Folk/Rock",
+      "streamUrl": "https://streaming.exclusive.radio/er/bobdylan/icecast.audio?aw_0_req_lsid=f5e9489c2303cb5302bfe247d7e03772",
+      "location": "USA"
+    }
+  ]
+}
