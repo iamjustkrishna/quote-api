@@ -57,7 +57,7 @@ def summarize():
         
         # Calling Gemini 2.5 Flash with Thinking and Google Search tools
         response = client.models.generate_content(
-            model="gemini-3-flash-preview",
+            model="gemini-3.1-pro-preview",
             contents=prompt,
             config=types.GenerateContentConfig(
                 thinking_config=thinking_config,
