@@ -95,7 +95,7 @@ def batch_summarize(articles):
 
 def curate():
     # Use the unified naming convention
-    current_feed_path = "summary_articles.json"
+    current_feed_path = "founder_articles.json"
     archive_path = "older_articles.json"
 
     existing_articles = load_json(current_feed_path)
