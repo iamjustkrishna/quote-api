@@ -1,0 +1,137 @@
+[
+    {
+        "title": "Superlinear Returns",
+        "url": "http://www.paulgraham.com/superlinear.html",
+        "founder_name": "Paul Graham",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c",
+        "timestamp": 1775194002.9851334,
+        "snippet": "New insight for your founder journey.",
+        "summary": "Read the full article to learn more."
+    },
+    {
+        "title": "How to Do Great Work",
+        "url": "http://www.paulgraham.com/greatwork.html",
+        "founder_name": "Paul Graham",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c",
+        "timestamp": 1775194002.9851396,
+        "snippet": "New insight for your founder journey.",
+        "summary": "Read the full article to learn more."
+    },
+    {
+        "title": "How to Get New Ideas",
+        "url": "http://www.paulgraham.com/getideas.html",
+        "founder_name": "Paul Graham",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c",
+        "timestamp": 1775194002.9851446,
+        "snippet": "New insight for your founder journey.",
+        "summary": "Read the full article to learn more."
+    },
+    {
+        "title": "Sora update #1",
+        "url": "https://blog.samaltman.com/sora-update-number-1",
+        "founder_name": "Sam Altman",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c",
+        "timestamp": 1775194003.240944,
+        "snippet": "New insight for your founder journey.",
+        "summary": "Read the full article to learn more."
+    },
+    {
+        "title": "Sora 2",
+        "url": "https://blog.samaltman.com/sora-2",
+        "founder_name": "Sam Altman",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c",
+        "timestamp": 1775194003.24095,
+        "snippet": "New insight for your founder journey.",
+        "summary": "Read the full article to learn more."
+    },
+    {
+        "title": "Abundant Intelligence",
+        "url": "https://blog.samaltman.com/abundant-intelligence",
+        "founder_name": "Sam Altman",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c",
+        "timestamp": 1775194003.240992,
+        "snippet": "New insight for your founder journey.",
+        "summary": "Read the full article to learn more."
+    },
+    {
+        "title": "A Motorcycle for the Mind",
+        "url": "https://nav.al/ai",
+        "founder_name": "Naval Ravikant",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c",
+        "timestamp": 1775194003.4170094,
+        "snippet": "New insight for your founder journey.",
+        "summary": "Read the full article to learn more."
+    },
+    {
+        "title": "Curate People",
+        "url": "https://nav.al/curate-people",
+        "founder_name": "Naval Ravikant",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c",
+        "timestamp": 1775194003.4170163,
+        "snippet": "New insight for your founder journey.",
+        "summary": "Read the full article to learn more."
+    },
+    {
+        "title": "In the Arena",
+        "url": "https://nav.al/in-the-arena",
+        "founder_name": "Naval Ravikant",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c",
+        "timestamp": 1775194003.417021,
+        "snippet": "New insight for your founder journey.",
+        "summary": "Read the full article to learn more."
+    },
+    {
+        "title": "My self-sovereign / local / private / secure LLM setup, April 2026",
+        "url": "https://vitalik.ca/general/2026/04/02/secure_llms.html",
+        "founder_name": "Vitalik Buterin",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c",
+        "timestamp": 1775194004.1700416,
+        "snippet": "New insight for your founder journey.",
+        "summary": "Read the full article to learn more."
+    },
+    {
+        "title": "Balance of power",
+        "url": "https://vitalik.ca/general/2025/12/30/balance_of_power.html",
+        "founder_name": "Vitalik Buterin",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c",
+        "timestamp": 1775194004.1700487,
+        "snippet": "New insight for your founder journey.",
+        "summary": "Read the full article to learn more."
+    },
+    {
+        "title": "Let a thousand societies bloom",
+        "url": "https://vitalik.ca/general/2025/12/17/societies.html",
+        "founder_name": "Vitalik Buterin",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c",
+        "timestamp": 1775194004.1700537,
+        "snippet": "New insight for your founder journey.",
+        "summary": "Read the full article to learn more."
+    },
+    {
+        "title": "An AI state of the union: We’ve passed the inflection point, dark factories are coming, and automation timelines | Simon Willison",
+        "url": "https://www.lennysnewsletter.com/p/an-ai-state-of-the-union",
+        "founder_name": "Lenny Rachitsky",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c",
+        "timestamp": 1775194004.5512867,
+        "snippet": "New insight for your founder journey.",
+        "summary": "Read the full article to learn more."
+    },
+    {
+        "title": "Listen: OpenClaw: A power-user's guide to the most powerful personal AI tool since ChatGPT",
+        "url": "https://www.lennysnewsletter.com/p/listen-openclaw-a-power-users-guide",
+        "founder_name": "Lenny Rachitsky",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c",
+        "timestamp": 1775194004.5512927,
+        "snippet": "New insight for your founder journey.",
+        "summary": "Read the full article to learn more."
+    },
+    {
+        "title": "OpenClaw: The complete guide to building, training, and living with your personal AI agent",
+        "url": "https://www.lennysnewsletter.com/p/openclaw-the-complete-guide-to-building",
+        "founder_name": "Lenny Rachitsky",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c",
+        "timestamp": 1775194004.5512974,
+        "snippet": "New insight for your founder journey.",
+        "summary": "Read the full article to learn more."
+    }
+]
