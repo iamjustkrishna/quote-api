@@ -2,9 +2,8 @@ name: Persona Founder Curator
 
 on:
   schedule:
-    # Runs at 00:00 UTC every day (roughly 5:30 AM IST)
     - cron: '0 0 * * *' 
-  workflow_dispatch: # Allows you to run it manually via the GitHub 'Actions' tab
+  workflow_dispatch: 
 
 jobs:
   build:
@@ -14,6 +13,9 @@ jobs:
     steps:
       - name: Checkout code
         uses: actions/checkout@v4
+        with:
+          # This ensures the action has the right permissions to push
+          persist-credentials: true
 
       - name: Set up Python
         uses: actions/setup-python@v4
@@ -26,13 +28,19 @@ jobs:
 
       - name: Run Curator
         env:
-          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }} # Set this in GitHub Repo Secrets
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
         run: python curate_founders.py
 
       - name: Commit and Push changes
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
-          git add founder_articles.json
-          git commit -m "Automated: Updated Founder Feed" || echo "No changes to commit"
-          git push
+          # Catch all JSON files (founder, summary, and older articles)
+          git add *.json 
+          # Only commit if there are actually changes
+          if git diff --quiet && git diff --staged --quiet; then
+            echo "✅ No new articles found today."
+          else
+            git commit -m "Automated: Updated Founder Feed & Archive"
+            git push
+          fi
