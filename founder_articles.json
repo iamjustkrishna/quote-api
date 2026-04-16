@@ -1,5 +1,14 @@
 [
     {
+        "title": "Listen: Not all AI agents are created equal",
+        "url": "https://www.lennysnewsletter.com/p/listen-not-all-ai-agents-are-created",
+        "founder_name": "Lenny Rachitsky",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c",
+        "timestamp": 1776306339.6706264,
+        "snippet": "New insight for your founder journey.",
+        "summary": "Read the full article to learn more."
+    },
+    {
         "title": "Not all AI agents are created equal",
         "url": "https://www.lennysnewsletter.com/p/not-all-ai-agents-are-created-equal",
         "founder_name": "Lenny Rachitsky",
@@ -247,13 +256,5 @@
         "founder_name": "Vitalik Buterin",
         "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c",
         "timestamp": 1770884761.6157813
-    },
-    {
-        "title": "Plinko PIR tutorial",
-        "url": "https://vitalik.ca/general/2025/11/25/plinko.html",
-        "snippet": "Master Vitalik Buterin's Plinko PIR tutorial to build privacy-first applications that earn user trust and give your startup an undeniable competitive edge.",
-        "founder_name": "Vitalik Buterin",
-        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c",
-        "timestamp": 1770884770.717693
     }
 ]
