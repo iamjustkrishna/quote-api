@@ -1,5 +1,14 @@
 [
     {
+        "title": "🧠 Community Wisdom: Sharing Claude Code skills across the org, Why did lennysjobs.com shut down, opening an LLC for side work, AI for SMB sales, and more",
+        "url": "https://www.lennysnewsletter.com/p/community-wisdom-sharing-claude-code",
+        "founder_name": "Lenny Rachitsky",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c",
+        "timestamp": 1776565586.7795374,
+        "snippet": "New insight for your founder journey.",
+        "summary": "Read the full article to learn more."
+    },
+    {
         "title": "Listen: Not all AI agents are created equal",
         "url": "https://www.lennysnewsletter.com/p/listen-not-all-ai-agents-are-created",
         "founder_name": "Lenny Rachitsky",
@@ -248,13 +257,5 @@
         "founder_name": "Vitalik Buterin",
         "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c",
         "timestamp": 1770884752.4300117
-    },
-    {
-        "title": "Let a thousand societies bloom",
-        "url": "https://vitalik.ca/general/2025/12/17/societies.html",
-        "snippet": "Vitalik Buterin's vision of \"a thousand societies blooming\" unveils the vast new frontier where student entrepreneurs can build disruptive, decentralized ventures from the ground up.",
-        "founder_name": "Vitalik Buterin",
-        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c",
-        "timestamp": 1770884761.6157813
     }
 ]
