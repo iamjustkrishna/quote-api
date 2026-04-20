@@ -1,5 +1,14 @@
 [
     {
+        "title": "Why half of product managers are in trouble | Nikhyl Singhal (Meta, Google)",
+        "url": "https://www.lennysnewsletter.com/p/why-half-of-product-managers-are-in-trouble",
+        "founder_name": "Lenny Rachitsky",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c",
+        "timestamp": 1776652010.3879826,
+        "snippet": "New insight for your founder journey.",
+        "summary": "Read the full article to learn more."
+    },
+    {
         "title": "🧠 Community Wisdom: Sharing Claude Code skills across the org, Why did lennysjobs.com shut down, opening an LLC for side work, AI for SMB sales, and more",
         "url": "https://www.lennysnewsletter.com/p/community-wisdom-sharing-claude-code",
         "founder_name": "Lenny Rachitsky",
@@ -249,13 +258,5 @@
         "founder_name": "Naval Ravikant",
         "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c",
         "timestamp": 1770884740.2394726
-    },
-    {
-        "title": "Balance of power",
-        "url": "https://vitalik.ca/general/2025/12/30/balance_of_power.html",
-        "snippet": "Student entrepreneurs: Vitalik Buterin's \"Balance of Power\" is your strategic blueprint for designing platforms and dominating markets by understanding who *really* holds the reins in the digital economy.",
-        "founder_name": "Vitalik Buterin",
-        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c",
-        "timestamp": 1770884752.4300117
     }
 ]
