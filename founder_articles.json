@@ -1,5 +1,23 @@
 [
     {
+        "title": "🎙️ This week on How I AI: How Intercom 2x’d their engineering velocity with Claude Code",
+        "url": "https://www.lennysnewsletter.com/p/this-week-on-how-i-ai-how-intercom",
+        "founder_name": "Lenny Rachitsky",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c",
+        "timestamp": 1776737656.8285987,
+        "snippet": "New insight for your founder journey.",
+        "summary": "Read the full article to learn more."
+    },
+    {
+        "title": "How Intercom 2x’d their engineering velocity in 9 months with Claude Code | Brian Scanlan",
+        "url": "https://www.lennysnewsletter.com/p/how-intercom-2xd-their-engineering",
+        "founder_name": "Lenny Rachitsky",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c",
+        "timestamp": 1776737656.828604,
+        "snippet": "New insight for your founder journey.",
+        "summary": "Read the full article to learn more."
+    },
+    {
         "title": "Why half of product managers are in trouble | Nikhyl Singhal (Meta, Google)",
         "url": "https://www.lennysnewsletter.com/p/why-half-of-product-managers-are-in-trouble",
         "founder_name": "Lenny Rachitsky",
@@ -242,21 +260,5 @@
         "founder_name": "Naval Ravikant",
         "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c",
         "timestamp": 1770884720.0170972
-    },
-    {
-        "title": "In the Arena",
-        "url": "https://nav.al/in-the-arena",
-        "snippet": "Naval Ravikant's \"In the Arena\" equips student entrepreneurs with the essential mindset and courage to step off the sidelines and actually build their vision in the real world.",
-        "founder_name": "Naval Ravikant",
-        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c",
-        "timestamp": 1770884731.6466773
-    },
-    {
-        "title": "Find the Simplest Thing That Works",
-        "url": "https://nav.al/simplest",
-        "snippet": "Student entrepreneurs, cut through the complexity and launch faster: Naval Ravikant reveals how to achieve real impact by focusing on the simplest thing that actually works.",
-        "founder_name": "Naval Ravikant",
-        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c",
-        "timestamp": 1770884740.2394726
     }
 ]

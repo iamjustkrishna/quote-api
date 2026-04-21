@@ -1,5 +1,21 @@
 [
     {
+        "title": "In the Arena",
+        "url": "https://nav.al/in-the-arena",
+        "snippet": "Naval Ravikant's \"In the Arena\" equips student entrepreneurs with the essential mindset and courage to step off the sidelines and actually build their vision in the real world.",
+        "founder_name": "Naval Ravikant",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c",
+        "timestamp": 1770884731.6466773
+    },
+    {
+        "title": "Find the Simplest Thing That Works",
+        "url": "https://nav.al/simplest",
+        "snippet": "Student entrepreneurs, cut through the complexity and launch faster: Naval Ravikant reveals how to achieve real impact by focusing on the simplest thing that actually works.",
+        "founder_name": "Naval Ravikant",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c",
+        "timestamp": 1770884740.2394726
+    },
+    {
         "title": "Balance of power",
         "url": "https://vitalik.ca/general/2025/12/30/balance_of_power.html",
         "snippet": "Student entrepreneurs: Vitalik Buterin's \"Balance of Power\" is your strategic blueprint for designing platforms and dominating markets by understanding who *really* holds the reins in the digital economy.",
