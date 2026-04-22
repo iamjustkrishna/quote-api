@@ -1,5 +1,14 @@
 [
     {
+        "title": "New: A free year of Cursor, Google AI Pro, Notion, Supabase, Gumloop, and Fin for subscribers",
+        "url": "https://www.lennysnewsletter.com/p/new-a-free-year-of-cursor-google",
+        "founder_name": "Lenny Rachitsky",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c",
+        "timestamp": 1776823959.9783657,
+        "snippet": "New insight for your founder journey.",
+        "summary": "Read the full article to learn more."
+    },
+    {
         "title": "🎙️ This week on How I AI: How Intercom 2x’d their engineering velocity with Claude Code",
         "url": "https://www.lennysnewsletter.com/p/this-week-on-how-i-ai-how-intercom",
         "founder_name": "Lenny Rachitsky",
@@ -252,13 +261,5 @@
         "founder_name": "Sam Altman",
         "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c",
         "timestamp": 1770884717.617246
-    },
-    {
-        "title": "Curate People",
-        "url": "https://nav.al/curate-people",
-        "snippet": "Insightful essay on startups and technology.",
-        "founder_name": "Naval Ravikant",
-        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c",
-        "timestamp": 1770884720.0170972
     }
 ]
