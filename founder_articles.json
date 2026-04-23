@@ -1,5 +1,14 @@
 [
     {
+        "title": "What Claude Design is actually good for (and why Figma isn’t dead yet)",
+        "url": "https://www.lennysnewsletter.com/p/what-claude-design-is-actually-good",
+        "founder_name": "Lenny Rachitsky",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c",
+        "timestamp": 1776911072.5494673,
+        "snippet": "New insight for your founder journey.",
+        "summary": "Read the full article to learn more."
+    },
+    {
         "title": "New: A free year of Cursor, Google AI Pro, Notion, Supabase, Gumloop, and Fin for subscribers",
         "url": "https://www.lennysnewsletter.com/p/new-a-free-year-of-cursor-google",
         "founder_name": "Lenny Rachitsky",
@@ -253,13 +262,5 @@
         "founder_name": "Sam Altman",
         "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c",
         "timestamp": 1770884709.102557
-    },
-    {
-        "title": "Abundant Intelligence",
-        "url": "https://blog.samaltman.com/abundant-intelligence",
-        "snippet": "Sam Altman's \"Abundant Intelligence\" is your roadmap to leveraging ubiquitous AI for building the next billion-dollar startup—or getting disrupted by it.",
-        "founder_name": "Sam Altman",
-        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c",
-        "timestamp": 1770884717.617246
     }
 ]
