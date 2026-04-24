@@ -1,5 +1,23 @@
 [
     {
+        "title": "GPT 5.5 just did what no other model could",
+        "url": "https://www.lennysnewsletter.com/p/gpt-55-just-did-what-no-other-model",
+        "founder_name": "Lenny Rachitsky",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c",
+        "timestamp": 1776997490.882706,
+        "snippet": "New insight for your founder journey.",
+        "summary": "Read the full article to learn more."
+    },
+    {
+        "title": "How Anthropic’s product team moves faster than anyone else | Cat Wu (Head of Product, Claude Code)",
+        "url": "https://www.lennysnewsletter.com/p/how-anthropics-product-team-moves",
+        "founder_name": "Lenny Rachitsky",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c",
+        "timestamp": 1776997490.8827126,
+        "snippet": "New insight for your founder journey.",
+        "summary": "Read the full article to learn more."
+    },
+    {
         "title": "What Claude Design is actually good for (and why Figma isn’t dead yet)",
         "url": "https://www.lennysnewsletter.com/p/what-claude-design-is-actually-good",
         "founder_name": "Lenny Rachitsky",
@@ -246,21 +264,5 @@
         "founder_name": "Paul Graham",
         "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c",
         "timestamp": 1770884691.083779
-    },
-    {
-        "title": "Sora update #1",
-        "url": "https://blog.samaltman.com/sora-update-number-1",
-        "snippet": "Sam Altman's \"Sora update #1\" is your crucial early brief on the AI video revolution poised to disrupt markets and unlock your next game-changing student startup.",
-        "founder_name": "Sam Altman",
-        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c",
-        "timestamp": 1770884700.8539443
-    },
-    {
-        "title": "Sora 2",
-        "url": "https://blog.samaltman.com/sora-2",
-        "snippet": "Sam Altman's \"Sora 2\" is the blueprint for the AI-powered video revolution that will either ignite your startup or render it obsolete.",
-        "founder_name": "Sam Altman",
-        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c",
-        "timestamp": 1770884709.102557
     }
 ]
