@@ -1,5 +1,14 @@
 [
     {
+        "title": "🧠 Community Wisdom: What great product leaders do differently, Claude vs. ChatGPT, receiving hard feedback two weeks into the job, tips for joining a pre-PMF startup, and more",
+        "url": "https://www.lennysnewsletter.com/p/community-wisdom-what-great-product",
+        "founder_name": "Lenny Rachitsky",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c",
+        "timestamp": 1777170543.0686707,
+        "snippet": "New insight for your founder journey.",
+        "summary": "Read the full article to learn more."
+    },
+    {
         "title": "GPT 5.5 just did what no other model could",
         "url": "https://www.lennysnewsletter.com/p/gpt-55-just-did-what-no-other-model",
         "founder_name": "Lenny Rachitsky",
@@ -256,13 +265,5 @@
         "founder_name": "Paul Graham",
         "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c",
         "timestamp": 1770884681.9666626
-    },
-    {
-        "title": "How to Get New Ideas",
-        "url": "http://www.paulgraham.com/getideas.html",
-        "snippet": "Student entrepreneurs, stop guessing: Paul Graham's essential guide reveals how to uncover the potent, fundable ideas that actually build successful startups.",
-        "founder_name": "Paul Graham",
-        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c",
-        "timestamp": 1770884691.083779
     }
 ]
