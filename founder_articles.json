@@ -1,5 +1,23 @@
 [
     {
+        "title": "🎙️ This week on How I AI: GPT 5.5, Claude Design, and GPT Images 2.0 hands-on reviews—plus an inside look at Memelord",
+        "url": "https://www.lennysnewsletter.com/p/this-week-on-how-i-ai-gpt-55-claude",
+        "founder_name": "Lenny Rachitsky",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c",
+        "timestamp": 1777343941.5398376,
+        "snippet": "New insight for your founder journey.",
+        "summary": "Read the full article to learn more."
+    },
+    {
+        "title": "From a $6.90 newsletter to $3M API: How a non-coder built Memelord | Jason Levin",
+        "url": "https://www.lennysnewsletter.com/p/from-a-690-newsletter-to-3m-api-how",
+        "founder_name": "Lenny Rachitsky",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c",
+        "timestamp": 1777343941.5398433,
+        "snippet": "New insight for your founder journey.",
+        "summary": "Read the full article to learn more."
+    },
+    {
         "title": "Snapchat CEO: Why distribution has become the most important moat | Evan Spiegel",
         "url": "https://www.lennysnewsletter.com/p/snapchat-ceo-why-distribution-is",
         "founder_name": "Lenny Rachitsky",
@@ -250,21 +268,5 @@
         "timestamp": 1775194165.5344877,
         "snippet": "New insight for your founder journey.",
         "summary": "Read the full article to learn more."
-    },
-    {
-        "title": "A Motorcycle for the Mind",
-        "url": "https://nav.al/ai",
-        "snippet": "Naval Ravikant's \"A Motorcycle for the Mind\" equips student entrepreneurs with the mental leverage to fast-track clarity, sharp decision-making, and an unfair advantage in building their ventures.",
-        "founder_name": "Naval Ravikant",
-        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c",
-        "timestamp": 1771552327.8307476
-    },
-    {
-        "title": "Superlinear Returns",
-        "url": "http://www.paulgraham.com/superlinear.html",
-        "snippet": "**Student entrepreneurs: Paul Graham's 'Superlinear Returns' shows you how to make your limited effort generate disproportionately massive results, turning small starts into exponential success.**",
-        "founder_name": "Paul Graham",
-        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c",
-        "timestamp": 1770884674.0103462
     }
 ]
