@@ -1,5 +1,32 @@
 [
     {
+        "title": "‘Nothing Ever Happens’ Is Over",
+        "url": "https://nav.al/over",
+        "founder_name": "Naval Ravikant",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c",
+        "timestamp": 1777948380.1076996,
+        "snippet": "New insight for your founder journey.",
+        "summary": "Read the full article to learn more."
+    },
+    {
+        "title": "🎙️ This week on How I AI: The internal AI tool that’s transforming how Stripe designs products",
+        "url": "https://www.lennysnewsletter.com/p/this-week-on-how-i-ai-the-internal",
+        "founder_name": "Lenny Rachitsky",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c",
+        "timestamp": 1777948381.0857143,
+        "snippet": "New insight for your founder journey.",
+        "summary": "Read the full article to learn more."
+    },
+    {
+        "title": "The internal AI tool that’s transforming how Stripe designs products | Owen Williams",
+        "url": "https://www.lennysnewsletter.com/p/the-internal-ai-tool-thats-transforming",
+        "founder_name": "Lenny Rachitsky",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c",
+        "timestamp": 1777948381.0857208,
+        "snippet": "New insight for your founder journey.",
+        "summary": "Read the full article to learn more."
+    },
+    {
         "title": "Why cultivating agency matters more than cultivating skills in the AI era | Max Schoening (Head of Product, Notion)",
         "url": "https://www.lennysnewsletter.com/p/why-cultivating-agency-matters-more",
         "founder_name": "Lenny Rachitsky",
@@ -239,33 +266,6 @@
         "founder_name": "Lenny Rachitsky",
         "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c",
         "timestamp": 1775527579.0112412,
-        "snippet": "New insight for your founder journey.",
-        "summary": "Read the full article to learn more."
-    },
-    {
-        "title": "I gave Claude Code our entire codebase. Our customers noticed. | Al Chen (Galileo)",
-        "url": "https://www.lennysnewsletter.com/p/i-gave-claude-code-our-entire-codebase",
-        "founder_name": "Lenny Rachitsky",
-        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c",
-        "timestamp": 1775527579.0112474,
-        "snippet": "New insight for your founder journey.",
-        "summary": "Read the full article to learn more."
-    },
-    {
-        "title": "Anthropic’s $1B to $19B growth run: how Claude became the fastest-growing AI product in history | Amol Avasare",
-        "url": "https://www.lennysnewsletter.com/p/anthropics-1b-to-19b-growth-run",
-        "founder_name": "Lenny Rachitsky",
-        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c",
-        "timestamp": 1775441409.2165933,
-        "snippet": "New insight for your founder journey.",
-        "summary": "Read the full article to learn more."
-    },
-    {
-        "title": "🧠 Community Wisdom: Evaluating startup equity, navigating pre-seed fundraising, MCPs vs. CLIs, Monzo’s U.S. exit, and more",
-        "url": "https://www.lennysnewsletter.com/p/community-wisdom-evaluating-startup",
-        "founder_name": "Lenny Rachitsky",
-        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c",
-        "timestamp": 1775354941.279397,
         "snippet": "New insight for your founder journey.",
         "summary": "Read the full article to learn more."
     }
