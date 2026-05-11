@@ -1,5 +1,14 @@
 [
     {
+        "title": "-",
+        "url": "https://blog.samaltman.com/2279512",
+        "founder_name": "Sam Altman",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c",
+        "timestamp": 1775872801.2650023,
+        "snippet": "New insight for your founder journey.",
+        "summary": "Read the full article to learn more."
+    },
+    {
         "title": "I built a custom Slack inbox. It was easier than you’d think. | Yash Tekriwal (Clay)",
         "url": "https://www.lennysnewsletter.com/p/i-built-a-custom-slack-inbox-it-was",
         "founder_name": "Lenny Rachitsky",
