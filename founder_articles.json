@@ -1,5 +1,32 @@
 [
     {
+        "title": "Sell the Truth",
+        "url": "https://nav.al/sell",
+        "founder_name": "Naval Ravikant",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c",
+        "timestamp": 1778553749.8453615,
+        "snippet": "New insight for your founder journey.",
+        "summary": "Read the full article to learn more."
+    },
+    {
+        "title": "🎙️ How I AI: Quests, token leaderboards, and the elite AI adoption playbook & Notion’s spec-driven development",
+        "url": "https://www.lennysnewsletter.com/p/how-i-ai-quests-token-leaderboards",
+        "founder_name": "Lenny Rachitsky",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c",
+        "timestamp": 1778553750.6736417,
+        "snippet": "New insight for your founder journey.",
+        "summary": "Read the full article to learn more."
+    },
+    {
+        "title": "Spec-driven development: The AI engineering workflow at Notion | Ryan Nystrom",
+        "url": "https://www.lennysnewsletter.com/p/spec-driven-development-the-ai-engineering",
+        "founder_name": "Lenny Rachitsky",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c",
+        "timestamp": 1778553750.6736495,
+        "snippet": "New insight for your founder journey.",
+        "summary": "Read the full article to learn more."
+    },
+    {
         "title": "How to build a company that withstands any era | Eric Ries, Lean Startup author",
         "url": "https://www.lennysnewsletter.com/p/how-to-build-a-company-that-withstands",
         "founder_name": "Lenny Rachitsky",
@@ -239,33 +266,6 @@
         "founder_name": "Lenny Rachitsky",
         "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c",
         "timestamp": 1776132770.1407576,
-        "snippet": "New insight for your founder journey.",
-        "summary": "Read the full article to learn more."
-    },
-    {
-        "title": "Claude Cowork 101: How to automate your workday without touching code | JJ Englert (Tenex)",
-        "url": "https://www.lennysnewsletter.com/p/claude-cowork-101-how-to-automate",
-        "founder_name": "Lenny Rachitsky",
-        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c",
-        "timestamp": 1776132770.1407652,
-        "snippet": "New insight for your founder journey.",
-        "summary": "Read the full article to learn more."
-    },
-    {
-        "title": "Hard truths about building in the AI era | Keith Rabois (Khosla Ventures)",
-        "url": "https://www.lennysnewsletter.com/p/hard-truths-about-building-in-the-ai-era",
-        "founder_name": "Lenny Rachitsky",
-        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c",
-        "timestamp": 1776047194.036931,
-        "snippet": "New insight for your founder journey.",
-        "summary": "Read the full article to learn more."
-    },
-    {
-        "title": "🧠 Community Wisdom: Vibe coding as a team sport, teaching interviewers to surface real signal, what’s missing from leadership offsites, and more",
-        "url": "https://www.lennysnewsletter.com/p/community-wisdom-vibe-coding-as-a",
-        "founder_name": "Lenny Rachitsky",
-        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c",
-        "timestamp": 1775960014.6865628,
         "snippet": "New insight for your founder journey.",
         "summary": "Read the full article to learn more."
     }
