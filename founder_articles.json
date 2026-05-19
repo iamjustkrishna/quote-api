@@ -1,5 +1,32 @@
 [
     {
+        "title": "A shallow dive into formal verification",
+        "url": "https://vitalik.ca/general/2026/05/18/fv.html",
+        "founder_name": "Vitalik Buterin",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c",
+        "timestamp": 1779159262.8096182,
+        "snippet": "New insight for your founder journey.",
+        "summary": "Read the full article to learn more."
+    },
+    {
+        "title": "🎙️ How I AI: HTML is the new Markdown: How Anthropic engineers are building with Claude Code",
+        "url": "https://www.lennysnewsletter.com/p/how-i-ai-html-is-the-new-markdown",
+        "founder_name": "Lenny Rachitsky",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c",
+        "timestamp": 1779159263.3422287,
+        "snippet": "New insight for your founder journey.",
+        "summary": "Read the full article to learn more."
+    },
+    {
+        "title": "HTML is the new Markdown: How Anthropic engineers are building with Claude Code | Thariq Shihipar",
+        "url": "https://www.lennysnewsletter.com/p/html-is-the-new-markdown-how-anthropic",
+        "founder_name": "Lenny Rachitsky",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c",
+        "timestamp": 1779159263.3422358,
+        "snippet": "New insight for your founder journey.",
+        "summary": "Read the full article to learn more."
+    },
+    {
         "title": "Why we’re at the beginning of the AI hardware boom | Caitlin Kalinowski (ex–OpenAI, Meta, Apple)",
         "url": "https://www.lennysnewsletter.com/p/why-were-at-the-beginning-of-the",
         "founder_name": "Lenny Rachitsky",
@@ -239,33 +266,6 @@
         "founder_name": "Lenny Rachitsky",
         "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c",
         "timestamp": 1776737656.828604,
-        "snippet": "New insight for your founder journey.",
-        "summary": "Read the full article to learn more."
-    },
-    {
-        "title": "Why half of product managers are in trouble | Nikhyl Singhal (Meta, Google)",
-        "url": "https://www.lennysnewsletter.com/p/why-half-of-product-managers-are-in-trouble",
-        "founder_name": "Lenny Rachitsky",
-        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c",
-        "timestamp": 1776652010.3879826,
-        "snippet": "New insight for your founder journey.",
-        "summary": "Read the full article to learn more."
-    },
-    {
-        "title": "🧠 Community Wisdom: Sharing Claude Code skills across the org, Why did lennysjobs.com shut down, opening an LLC for side work, AI for SMB sales, and more",
-        "url": "https://www.lennysnewsletter.com/p/community-wisdom-sharing-claude-code",
-        "founder_name": "Lenny Rachitsky",
-        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c",
-        "timestamp": 1776565586.7795374,
-        "snippet": "New insight for your founder journey.",
-        "summary": "Read the full article to learn more."
-    },
-    {
-        "title": "Listen: Not all AI agents are created equal",
-        "url": "https://www.lennysnewsletter.com/p/listen-not-all-ai-agents-are-created",
-        "founder_name": "Lenny Rachitsky",
-        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c",
-        "timestamp": 1776306339.6706264,
         "snippet": "New insight for your founder journey.",
         "summary": "Read the full article to learn more."
     }
