@@ -1,5 +1,23 @@
 [
     {
+        "title": "Waste Tokens, Save Time",
+        "url": "https://nav.al/tokens",
+        "founder_name": "Naval Ravikant",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c",
+        "timestamp": 1779936595.0658183,
+        "snippet": "New insight for your founder journey.",
+        "summary": "Read the full article to learn more."
+    },
+    {
+        "title": "The Codex feature that works while you sleep",
+        "url": "https://www.lennysnewsletter.com/p/the-codex-feature-that-works-while",
+        "founder_name": "Lenny Rachitsky",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c",
+        "timestamp": 1779936595.7998881,
+        "snippet": "New insight for your founder journey.",
+        "summary": "Read the full article to learn more."
+    },
+    {
         "title": "Essential books for product builders—part 1",
         "url": "https://www.lennysnewsletter.com/p/essential-books-for-product-builderspart",
         "founder_name": "Lenny Rachitsky",
@@ -248,24 +266,6 @@
         "founder_name": "Lenny Rachitsky",
         "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c",
         "timestamp": 1777430335.824497,
-        "snippet": "New insight for your founder journey.",
-        "summary": "Read the full article to learn more."
-    },
-    {
-        "title": "🎙️ This week on How I AI: GPT 5.5, Claude Design, and GPT Images 2.0 hands-on reviews—plus an inside look at Memelord",
-        "url": "https://www.lennysnewsletter.com/p/this-week-on-how-i-ai-gpt-55-claude",
-        "founder_name": "Lenny Rachitsky",
-        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c",
-        "timestamp": 1777343941.5398376,
-        "snippet": "New insight for your founder journey.",
-        "summary": "Read the full article to learn more."
-    },
-    {
-        "title": "From a $6.90 newsletter to $3M API: How a non-coder built Memelord | Jason Levin",
-        "url": "https://www.lennysnewsletter.com/p/from-a-690-newsletter-to-3m-api-how",
-        "founder_name": "Lenny Rachitsky",
-        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c",
-        "timestamp": 1777343941.5398433,
         "snippet": "New insight for your founder journey.",
         "summary": "Read the full article to learn more."
     }
