@@ -1,5 +1,14 @@
 [
     {
+        "title": "How to design AI agent loops: schedules, goals, and subagents in Claude Code and Codex",
+        "url": "https://www.lennysnewsletter.com/p/how-to-design-ai-agent-loops-schedules",
+        "founder_name": "Lenny Rachitsky",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c",
+        "timestamp": 1781753802.058265,
+        "snippet": "New insight for your founder journey.",
+        "summary": "Read the full article to learn more."
+    },
+    {
         "title": "🎙️ How I AI: Claude Fable 5 review & How Braintrust uses AI agents, evals, and CI to ship better software",
         "url": "https://www.lennysnewsletter.com/p/how-i-ai-claude-fable-5-review-and",
         "founder_name": "Lenny Rachitsky",
@@ -257,15 +266,6 @@
         "founder_name": "Lenny Rachitsky",
         "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c",
         "timestamp": 1779245680.6756835,
-        "snippet": "New insight for your founder journey.",
-        "summary": "Read the full article to learn more."
-    },
-    {
-        "title": "A shallow dive into formal verification",
-        "url": "https://vitalik.ca/general/2026/05/18/fv.html",
-        "founder_name": "Vitalik Buterin",
-        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c",
-        "timestamp": 1779159262.8096182,
         "snippet": "New insight for your founder journey.",
         "summary": "Read the full article to learn more."
     }

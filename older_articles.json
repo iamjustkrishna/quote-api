@@ -1,5 +1,14 @@
 [
     {
+        "title": "A shallow dive into formal verification",
+        "url": "https://vitalik.ca/general/2026/05/18/fv.html",
+        "founder_name": "Vitalik Buterin",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c",
+        "timestamp": 1779159262.8096182,
+        "snippet": "New insight for your founder journey.",
+        "summary": "Read the full article to learn more."
+    },
+    {
         "title": "🎙️ How I AI: HTML is the new Markdown: How Anthropic engineers are building with Claude Code",
         "url": "https://www.lennysnewsletter.com/p/how-i-ai-html-is-the-new-markdown",
         "founder_name": "Lenny Rachitsky",
