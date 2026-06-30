@@ -1,5 +1,32 @@
 [
     {
+        "title": "Obfuscation: building the final boss of cryptography (Part I)",
+        "url": "https://vitalik.ca/general/2026/06/29/obfuscation1.html",
+        "founder_name": "Vitalik Buterin",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c",
+        "timestamp": 1782788280.693191,
+        "snippet": "New insight for your founder journey.",
+        "summary": "Read the full article to learn more."
+    },
+    {
+        "title": "🎙️ How I AI: GLM-5.2 review & How Gusto built a new product line with Claude Code",
+        "url": "https://www.lennysnewsletter.com/p/how-i-ai-glm-52-review-and-how-gusto",
+        "founder_name": "Lenny Rachitsky",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c",
+        "timestamp": 1782788281.1197863,
+        "snippet": "New insight for your founder journey.",
+        "summary": "Read the full article to learn more."
+    },
+    {
+        "title": "No Figma. No Jira. No docs. How Gusto built a new product line with Claude Code | Eddie Kim (CTO)",
+        "url": "https://www.lennysnewsletter.com/p/no-figma-no-jira-no-docs-how-gusto",
+        "founder_name": "Lenny Rachitsky",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c",
+        "timestamp": 1782788281.1197932,
+        "snippet": "New insight for your founder journey.",
+        "summary": "Read the full article to learn more."
+    },
+    {
         "title": "OpenAI Codex lead on the new shape of product work | Andrew Ambrosino",
         "url": "https://www.lennysnewsletter.com/p/openai-codex-lead-on-the-new-shape",
         "founder_name": "Lenny Rachitsky",
@@ -239,33 +266,6 @@
         "founder_name": "Naval Ravikant",
         "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c",
         "timestamp": 1780023211.686216,
-        "snippet": "New insight for your founder journey.",
-        "summary": "Read the full article to learn more."
-    },
-    {
-        "title": "Claude Opus 4.8 is here. Is it as good as they say?",
-        "url": "https://www.lennysnewsletter.com/p/claude-opus-48-is-here-is-it-as-good",
-        "founder_name": "Lenny Rachitsky",
-        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c",
-        "timestamp": 1780023212.6218464,
-        "snippet": "New insight for your founder journey.",
-        "summary": "Read the full article to learn more."
-    },
-    {
-        "title": "Waste Tokens, Save Time",
-        "url": "https://nav.al/tokens",
-        "founder_name": "Naval Ravikant",
-        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c",
-        "timestamp": 1779936595.0658183,
-        "snippet": "New insight for your founder journey.",
-        "summary": "Read the full article to learn more."
-    },
-    {
-        "title": "The Codex feature that works while you sleep",
-        "url": "https://www.lennysnewsletter.com/p/the-codex-feature-that-works-while",
-        "founder_name": "Lenny Rachitsky",
-        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c",
-        "timestamp": 1779936595.7998881,
         "snippet": "New insight for your founder journey.",
         "summary": "Read the full article to learn more."
     }
