@@ -1,5 +1,23 @@
 [
     {
+        "title": "The Regulatory Frontier",
+        "url": "https://nav.al/regulatory",
+        "founder_name": "Naval Ravikant",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c",
+        "timestamp": 1780109220.9112191,
+        "snippet": "New insight for your founder journey.",
+        "summary": "Read the full article to learn more."
+    },
+    {
+        "title": "Vibe Coding Hardware",
+        "url": "https://nav.al/hardware",
+        "founder_name": "Naval Ravikant",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c",
+        "timestamp": 1780023211.686216,
+        "snippet": "New insight for your founder journey.",
+        "summary": "Read the full article to learn more."
+    },
+    {
         "title": "Claude Opus 4.8 is here. Is it as good as they say?",
         "url": "https://www.lennysnewsletter.com/p/claude-opus-48-is-here-is-it-as-good",
         "founder_name": "Lenny Rachitsky",
