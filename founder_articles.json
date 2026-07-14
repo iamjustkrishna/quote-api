@@ -1,5 +1,23 @@
 [
     {
+        "title": "🎙️ How I AI: GPT-5.6 review, How a solo builder runs 24/7 local AI, and What an agent harness is and how to build one",
+        "url": "https://www.lennysnewsletter.com/p/how-i-ai-gpt-56-review-how-a-solo",
+        "founder_name": "Lenny Rachitsky",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c",
+        "timestamp": 1783994879.1202488,
+        "snippet": "New insight for your founder journey.",
+        "summary": "Read the full article to learn more."
+    },
+    {
+        "title": "This solo builder runs 24/7 local AI on his own hardware | Alex Finn",
+        "url": "https://www.lennysnewsletter.com/p/this-solo-builder-runs-247-local",
+        "founder_name": "Lenny Rachitsky",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c",
+        "timestamp": 1783994879.1202555,
+        "snippet": "New insight for your founder journey.",
+        "summary": "Read the full article to learn more."
+    },
+    {
         "title": "How tech workers actually feel about AI in 2026 | Annual AI sentiment survey (Noam Segal)",
         "url": "https://www.lennysnewsletter.com/p/how-tech-workers-actually-feel-about",
         "founder_name": "Lenny Rachitsky",
@@ -248,24 +266,6 @@
         "founder_name": "Lenny Rachitsky",
         "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c",
         "timestamp": 1781408447.0320199,
-        "snippet": "New insight for your founder journey.",
-        "summary": "Read the full article to learn more."
-    },
-    {
-        "title": "Claude Fable 5 review: what the new Mythos model gets right (and very wrong)",
-        "url": "https://www.lennysnewsletter.com/p/claude-fable-5-review-what-the-new",
-        "founder_name": "Lenny Rachitsky",
-        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c",
-        "timestamp": 1781061926.748217,
-        "snippet": "New insight for your founder journey.",
-        "summary": "Read the full article to learn more."
-    },
-    {
-        "title": "Essential books for product builders—part 2",
-        "url": "https://www.lennysnewsletter.com/p/essential-books-for-product-builderspart-611",
-        "founder_name": "Lenny Rachitsky",
-        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c",
-        "timestamp": 1781061926.7482233,
         "snippet": "New insight for your founder journey.",
         "summary": "Read the full article to learn more."
     }
