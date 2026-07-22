@@ -1,5 +1,14 @@
 [
     {
+        "title": "Why a sabbatical can change everything",
+        "url": "https://www.lennysnewsletter.com/p/how-to-take-a-sabbatical",
+        "founder_name": "Lenny Rachitsky",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c",
+        "timestamp": 1784686872.5668695,
+        "snippet": "New insight for your founder journey.",
+        "summary": "Read the full article to learn more."
+    },
+    {
         "title": "🎙️ How I AI: How the founder of Morning Brew built a Claude content machine that never runs out of ideas",
         "url": "https://www.lennysnewsletter.com/p/how-i-ai-how-the-founder-of-morning",
         "founder_name": "Lenny Rachitsky",
@@ -257,15 +266,6 @@
         "founder_name": "Lenny Rachitsky",
         "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c",
         "timestamp": 1782013895.0796962,
-        "snippet": "New insight for your founder journey.",
-        "summary": "Read the full article to learn more."
-    },
-    {
-        "title": "How to design AI agent loops: schedules, goals, and subagents in Claude Code and Codex",
-        "url": "https://www.lennysnewsletter.com/p/how-to-design-ai-agent-loops-schedules",
-        "founder_name": "Lenny Rachitsky",
-        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c",
-        "timestamp": 1781753802.058265,
         "snippet": "New insight for your founder journey.",
         "summary": "Read the full article to learn more."
     }
