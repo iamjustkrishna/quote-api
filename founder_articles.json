@@ -1,5 +1,14 @@
 [
     {
+        "title": "Anthropic’s first technical PM on token maxing, the jagged edge, and living in the future | Dianne Penn",
+        "url": "https://www.lennysnewsletter.com/p/anthropics-first-technical-pm-on",
+        "founder_name": "Lenny Rachitsky",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c",
+        "timestamp": 1785119746.7219691,
+        "snippet": "New insight for your founder journey.",
+        "summary": "Read the full article to learn more."
+    },
+    {
         "title": "🧠 Community Wisdom: Staying on a client’s radar during pilot purgatory, pairing Linear with a discovery tool, the limits of what AI can automate, whether Techstars is worth it, and more",
         "url": "https://www.lennysnewsletter.com/p/community-wisdom-staying-on-a-clients",
         "founder_name": "Lenny Rachitsky",
@@ -257,15 +266,6 @@
         "founder_name": "Lenny Rachitsky",
         "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c",
         "timestamp": 1782269666.6620662,
-        "snippet": "New insight for your founder journey.",
-        "summary": "Read the full article to learn more."
-    },
-    {
-        "title": "🎙️ How I AI: How to write AI agent loops in Claude Code and Codex + How Claude Mythos found a 15-year-old bug in Mozilla Firefox",
-        "url": "https://www.lennysnewsletter.com/p/how-i-ai-how-to-write-ai-agent-loops",
-        "founder_name": "Lenny Rachitsky",
-        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c",
-        "timestamp": 1782183216.2463193,
         "snippet": "New insight for your founder journey.",
         "summary": "Read the full article to learn more."
     }
