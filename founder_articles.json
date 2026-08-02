@@ -1,5 +1,14 @@
 [
     {
+        "title": "🧠 Community Wisdom: Getting started with open source models, making a U.S. business trip worth it, preparing for a possible layoff, when marketing can’t keep up with product, and more",
+        "url": "https://www.lennysnewsletter.com/p/community-wisdom-getting-started",
+        "founder_name": "Lenny Rachitsky",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c",
+        "timestamp": 1785637638.4670851,
+        "snippet": "New insight for your founder journey.",
+        "summary": "Read the full article to learn more."
+    },
+    {
         "title": "Obfuscation (Part II): Diamond iO",
         "url": "https://vitalik.ca/general/2026/07/28/obfuscation_part_ii_diamond_io.html",
         "founder_name": "Vitalik Buterin",
@@ -257,15 +266,6 @@
         "founder_name": "Lenny Rachitsky",
         "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c",
         "timestamp": 1782788281.1197863,
-        "snippet": "New insight for your founder journey.",
-        "summary": "Read the full article to learn more."
-    },
-    {
-        "title": "No Figma. No Jira. No docs. How Gusto built a new product line with Claude Code | Eddie Kim (CTO)",
-        "url": "https://www.lennysnewsletter.com/p/no-figma-no-jira-no-docs-how-gusto",
-        "founder_name": "Lenny Rachitsky",
-        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c",
-        "timestamp": 1782788281.1197932,
         "snippet": "New insight for your founder journey.",
         "summary": "Read the full article to learn more."
     }
