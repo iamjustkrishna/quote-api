@@ -1,5 +1,14 @@
 [
     {
+        "title": "How to make people care about your startup",
+        "url": "https://www.lennysnewsletter.com/p/how-to-make-people-care-about-your",
+        "founder_name": "Lenny Rachitsky",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c",
+        "timestamp": 1786498722.9532351,
+        "snippet": "New insight for your founder journey.",
+        "summary": "Read the full article to learn more."
+    },
+    {
         "title": "🎙️ How I AI: Build an AI code review bot in 30 minutes + Claude Code for normal people",
         "url": "https://www.lennysnewsletter.com/p/how-i-ai-build-an-ai-code-review",
         "founder_name": "Lenny Rachitsky",
@@ -257,15 +266,6 @@
         "founder_name": "Lenny Rachitsky",
         "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c",
         "timestamp": 1783651254.8059394,
-        "snippet": "New insight for your founder journey.",
-        "summary": "Read the full article to learn more."
-    },
-    {
-        "title": "What a harness is and how to build one with Claude Agent SDK",
-        "url": "https://www.lennysnewsletter.com/p/what-a-harness-is-and-how-to-build",
-        "founder_name": "Lenny Rachitsky",
-        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c",
-        "timestamp": 1783564701.9799285,
         "snippet": "New insight for your founder journey.",
         "summary": "Read the full article to learn more."
     }
