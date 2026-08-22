@@ -1,5 +1,14 @@
 [
     {
+        "title": "Obfuscation (Part III): Local Mixing",
+        "url": "https://vitalik.ca/general/2026/08/21/obfuscation_part_iii_local_mixing.html",
+        "founder_name": "Vitalik Buterin",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c",
+        "timestamp": 1787360451.2020466,
+        "snippet": "New insight for your founder journey.",
+        "summary": "Read the full article to learn more."
+    },
+    {
         "title": "I tested Grok Bot, Grok 4.6, and Cursor Origin - here’s my honest take",
         "url": "https://www.lennysnewsletter.com/p/i-tested-grok-bot-grok-46-and-cursor",
         "founder_name": "Lenny Rachitsky",
@@ -257,15 +266,6 @@
         "founder_name": "Lenny Rachitsky",
         "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c",
         "timestamp": 1784515164.1064885,
-        "snippet": "New insight for your founder journey.",
-        "summary": "Read the full article to learn more."
-    },
-    {
-        "title": "🧠 Community Wisdom: Syncing Claude Code and Claude Design, earning trust when customers assume you vibe coded it, co-founder fallout lessons, personal CRMs, and more",
-        "url": "https://www.lennysnewsletter.com/p/community-wisdom-syncing-claude-code",
-        "founder_name": "Lenny Rachitsky",
-        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c",
-        "timestamp": 1784427817.8356442,
         "snippet": "New insight for your founder journey.",
         "summary": "Read the full article to learn more."
     }
