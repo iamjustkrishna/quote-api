@@ -1,5 +1,14 @@
 [
     {
+        "title": "How to turn your AI into a world-class designer",
+        "url": "https://www.lennysnewsletter.com/p/how-to-turn-your-ai-into-a-world",
+        "founder_name": "Lenny Rachitsky",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c",
+        "timestamp": 1788316949.43523,
+        "snippet": "New insight for your founder journey.",
+        "summary": "Read the full article to learn more."
+    },
+    {
         "title": "🎙️ How I AI: How this PM uses Claude to handle 70% to 80% of his workday",
         "url": "https://www.lennysnewsletter.com/p/how-i-ai-how-this-pm-uses-claude",
         "founder_name": "Lenny Rachitsky",
@@ -257,15 +266,6 @@
         "founder_name": "Lenny Rachitsky",
         "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c",
         "timestamp": 1785291251.5111203,
-        "snippet": "New insight for your founder journey.",
-        "summary": "Read the full article to learn more."
-    },
-    {
-        "title": "🎙️ How I AI: Claude Opus 5 Review + Browser use in Codex + How Cursor and a Raspberry Pi makes AI fun",
-        "url": "https://www.lennysnewsletter.com/p/how-i-ai-claude-opus-5-review-browser",
-        "founder_name": "Lenny Rachitsky",
-        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c",
-        "timestamp": 1785204631.7449207,
         "snippet": "New insight for your founder journey.",
         "summary": "Read the full article to learn more."
     }
