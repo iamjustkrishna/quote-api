@@ -1,5 +1,14 @@
 [
     {
+        "title": "🧠 Community Wisdom: AI basketball coaching, Jira vs. Linear, building a business case for platform teams, favorite AI use cases, and more",
+        "url": "https://www.lennysnewsletter.com/p/community-wisdom-ai-basketball-coaching",
+        "founder_name": "Lenny Rachitsky",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c",
+        "timestamp": 1789268291.2257793,
+        "snippet": "New insight for your founder journey.",
+        "summary": "Read the full article to learn more."
+    },
+    {
         "title": "How we built Grok Bot in a month | Roman Ugarte (SpaceXAI)",
         "url": "https://www.lennysnewsletter.com/p/how-we-built-grok-bot-in-a-month",
         "founder_name": "Lenny Rachitsky",
@@ -257,15 +266,6 @@
         "founder_name": "Lenny Rachitsky",
         "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c",
         "timestamp": 1786238541.358808,
-        "snippet": "New insight for your founder journey.",
-        "summary": "Read the full article to learn more."
-    },
-    {
-        "title": "Build an AI code review bot in 30 minutes with Vercel Eve",
-        "url": "https://www.lennysnewsletter.com/p/build-an-ai-code-review-bot-in-30",
-        "founder_name": "Lenny Rachitsky",
-        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c",
-        "timestamp": 1785982334.8551009,
         "snippet": "New insight for your founder journey.",
         "summary": "Read the full article to learn more."
     }
