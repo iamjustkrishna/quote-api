@@ -1,5 +1,23 @@
 [
     {
+        "title": "The cryptographic world computer",
+        "url": "https://vitalik.ca/general/2026/09/27/the_cryptographic_world_computer.html",
+        "founder_name": "Vitalik Buterin",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c",
+        "timestamp": 1790566022.1274827,
+        "snippet": "New insight for your founder journey.",
+        "summary": "Read the full article to learn more."
+    },
+    {
+        "title": "The grief, loneliness, and burnout sweeping through the tech industry right now | Molly Graham",
+        "url": "https://www.lennysnewsletter.com/p/the-grief-loneliness-and-burnout",
+        "founder_name": "Lenny Rachitsky",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c",
+        "timestamp": 1790566022.4904528,
+        "snippet": "New insight for your founder journey.",
+        "summary": "Read the full article to learn more."
+    },
+    {
         "title": "🧠 Community Wisdom: AI doomerism, speeding up discovery in a big org, verifying engineering answers as a new PM, where analytics adds the most value, and more",
         "url": "https://www.lennysnewsletter.com/p/community-wisdom-ai-doomerism-speeding",
         "founder_name": "Lenny Rachitsky",
@@ -248,24 +266,6 @@
         "founder_name": "Lenny Rachitsky",
         "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c",
         "timestamp": 1787619780.7116473,
-        "snippet": "New insight for your founder journey.",
-        "summary": "Read the full article to learn more."
-    },
-    {
-        "title": "How to close $100K+ enterprise deals, step by step | Jen Abel",
-        "url": "https://www.lennysnewsletter.com/p/how-to-close-100k-1m-deals-step-by",
-        "founder_name": "Lenny Rachitsky",
-        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c",
-        "timestamp": 1787533420.856891,
-        "snippet": "New insight for your founder journey.",
-        "summary": "Read the full article to learn more."
-    },
-    {
-        "title": "🧠 Community Wisdom: Favorite Lenny’s Product Pass tools, how AI is reshaping hiring, what to prioritize when you join a new company, and more",
-        "url": "https://www.lennysnewsletter.com/p/community-wisdom-favorite-lennys",
-        "founder_name": "Lenny Rachitsky",
-        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c",
-        "timestamp": 1787447160.5442402,
         "snippet": "New insight for your founder journey.",
         "summary": "Read the full article to learn more."
     }
