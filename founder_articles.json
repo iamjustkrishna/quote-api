@@ -1,5 +1,14 @@
 [
     {
+        "title": "Digital minimalism",
+        "url": "https://vitalik.ca/general/2026/10/31/digital_minimalism.html",
+        "founder_name": "Vitalik Buterin",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c",
+        "timestamp": 1793418918.1728048,
+        "snippet": "New insight for your founder journey.",
+        "summary": "Read the full article to learn more."
+    },
+    {
         "title": "Grok vs. Dot vs. Muse vs. Claude Duet: which one crushes the competition?",
         "url": "https://www.lennysnewsletter.com/p/grok-vs-dot-vs-muse-vs-claude-duet",
         "founder_name": "Lenny Rachitsky",
@@ -257,15 +266,6 @@
         "founder_name": "Lenny Rachitsky",
         "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c",
         "timestamp": 1790132923.4121494,
-        "snippet": "New insight for your founder journey.",
-        "summary": "Read the full article to learn more."
-    },
-    {
-        "title": "I left Claude for months. Opus 5.5 is why I'm back",
-        "url": "https://www.lennysnewsletter.com/p/i-left-claude-for-months-opus-55",
-        "founder_name": "Lenny Rachitsky",
-        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c",
-        "timestamp": 1790132923.412156,
         "snippet": "New insight for your founder journey.",
         "summary": "Read the full article to learn more."
     }
