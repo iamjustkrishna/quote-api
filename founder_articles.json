@@ -1,5 +1,23 @@
 [
     {
+        "title": "🎙️ How I AI: Grok vs. Dot vs. Muse vs. Duet + How Figma’s PMs actually use AI every day",
+        "url": "https://www.lennysnewsletter.com/p/how-i-ai-grok-vs-dot-vs-muse-vs-duet",
+        "founder_name": "Lenny Rachitsky",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c",
+        "timestamp": 1793682725.3893645,
+        "snippet": "New insight for your founder journey.",
+        "summary": "Read the full article to learn more."
+    },
+    {
+        "title": "How Figma’s PMs actually use AI every day | Ezra Mechaber (PM, Figma)",
+        "url": "https://www.lennysnewsletter.com/p/how-figmas-pms-actually-use-ai-every",
+        "founder_name": "Lenny Rachitsky",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c",
+        "timestamp": 1793682725.3893714,
+        "snippet": "New insight for your founder journey.",
+        "summary": "Read the full article to learn more."
+    },
+    {
         "title": "How a 19-year-old intern built the growth engine behind this $2B AI company | Hector Serrano",
         "url": "https://www.lennysnewsletter.com/p/how-a-19-year-old-intern-built-the",
         "founder_name": "Lenny Rachitsky",
@@ -248,24 +266,6 @@
         "founder_name": "Lenny Rachitsky",
         "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c",
         "timestamp": 1790654582.6970809,
-        "snippet": "New insight for your founder journey.",
-        "summary": "Read the full article to learn more."
-    },
-    {
-        "title": "The cryptographic world computer",
-        "url": "https://vitalik.ca/general/2026/09/27/the_cryptographic_world_computer.html",
-        "founder_name": "Vitalik Buterin",
-        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c",
-        "timestamp": 1790566022.1274827,
-        "snippet": "New insight for your founder journey.",
-        "summary": "Read the full article to learn more."
-    },
-    {
-        "title": "The grief, loneliness, and burnout sweeping through the tech industry right now | Molly Graham",
-        "url": "https://www.lennysnewsletter.com/p/the-grief-loneliness-and-burnout",
-        "founder_name": "Lenny Rachitsky",
-        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c",
-        "timestamp": 1790566022.4904528,
         "snippet": "New insight for your founder journey.",
         "summary": "Read the full article to learn more."
     }
