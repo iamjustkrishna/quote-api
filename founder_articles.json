@@ -1,5 +1,23 @@
 [
     {
+        "title": "A shallow dive into open-source chip design",
+        "url": "https://vitalik.ca/general/2026/11/26/a_shallow_dive_into_open-source_chip_design.html",
+        "founder_name": "Vitalik Buterin",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c",
+        "timestamp": 1795675335.2507548,
+        "snippet": "New insight for your founder journey.",
+        "summary": "Read the full article to learn more."
+    },
+    {
+        "title": "Gemini 4 Neon beat GPT-6.2 and Claude in my 25-task AI benchmark",
+        "url": "https://www.lennysnewsletter.com/p/gemini-4-neon-beat-gpt-62-and-claude",
+        "founder_name": "Lenny Rachitsky",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c",
+        "timestamp": 1795675335.5594726,
+        "snippet": "New insight for your founder journey.",
+        "summary": "Read the full article to learn more."
+    },
+    {
         "title": "🎙️ How I AI: OpenClaw for executives: Automate every 1% annoyance",
         "url": "https://www.lennysnewsletter.com/p/how-i-ai-openclaw-for-executives",
         "founder_name": "Lenny Rachitsky",
@@ -248,24 +266,6 @@
         "founder_name": "Lenny Rachitsky",
         "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c",
         "timestamp": 1792466105.5291843,
-        "snippet": "New insight for your founder journey.",
-        "summary": "Read the full article to learn more."
-    },
-    {
-        "title": "“Claude cuts my TikTok”: How this creator is scaling video with AI | Brooke Lacey",
-        "url": "https://www.lennysnewsletter.com/p/claude-cuts-my-tiktok-how-this-creator",
-        "founder_name": "Lenny Rachitsky",
-        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c",
-        "timestamp": 1792466105.5291924,
-        "snippet": "New insight for your founder journey.",
-        "summary": "Read the full article to learn more."
-    },
-    {
-        "title": "Inside the black box of AI: How AI models actually think | Emmanuel Ameisen (Anthropic)",
-        "url": "https://www.lennysnewsletter.com/p/a-mind-expanding-conversation-on",
-        "founder_name": "Lenny Rachitsky",
-        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c",
-        "timestamp": 1792379159.5031197,
         "snippet": "New insight for your founder journey.",
         "summary": "Read the full article to learn more."
     }
